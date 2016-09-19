@@ -1,0 +1,22 @@
+{
+  "name": "ufc-information",
+  "version": "1.0.0",
+  "description": "A simple fact skill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact",
+    "UFC",
+    "Ultimate Fighting Championship",
+    "information"
+  ],
+  "author": "Ryan Gill",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
